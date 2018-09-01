@@ -11,6 +11,8 @@ Vale lembrar que é necessário a configuração de hosts no sistema operacional
 
 Windows: C:\Windows\System32\drivers\etc\hosts
 MAC e Linux: /etc/hosts
+Adicionando a linha:
+192.168.10.10 baterponto.test
 
 Login do painel administrativo:
 
